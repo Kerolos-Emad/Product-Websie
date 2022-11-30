@@ -1,0 +1,15 @@
+
+
+
+#alertContainer{
+    
+    display: none;
+}
+.items{
+    background-color: #fff;
+    position: absolute;
+    bottom: 20px;
+    width: 80%;
+    left: 10%;
+    
+}
